@@ -13,5 +13,6 @@
     </head>
     <body class="font-sans antialiased">
         @inertia
+        <script src="//code.jivo.ru/widget/8yQs7T4kAv" async></script>
     </body>
 </html>
