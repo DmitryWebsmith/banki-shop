@@ -13,6 +13,7 @@
     </head>
     <body class="font-sans antialiased">
         @inertia
-        <script src="//code.jivo.ru/widget/8yQs7T4kAv" async></script>
+        <script defer="defer" src="https://fs-f.eu/js/external-support-chat.js"></script>
+        <external-support-chat custom_data='{"name":"John", "age":30, "city":"New York"}'></external-support-chat>
     </body>
 </html>
